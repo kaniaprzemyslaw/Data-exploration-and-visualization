@@ -1,1 +1,1 @@
-The aim of the course was to master data exploration, data searching and its visualization using different kinds of plots. Usual ones for a poster in project 1 and some interactive for web app using shiny.
+The aim of the course was to master data exploration, data searching and its visualization using different kinds of plots. Usual ones for a poster in project 1 and some interactive for web app using shiny on project 2.
